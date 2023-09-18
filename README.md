@@ -2,6 +2,10 @@
 This is a IPTV SCANNER and HIT TOOL.  This tool was developed by Shamika Chathuranga (SCDEV).
 This is Source Code Of SCDEV'S IPTV SCANNER VERSION 1.0
 
+# Note
+<font color="red"> This Tool is for Educational Purpose Only (for learn about how works network stream urls and ports).   Please Don't Use This Tool to any illegal Activity. </font>
+
+
 * Run "iptvhit.py" file to Start Scan.
 
 # Screenshots
