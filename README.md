@@ -1,6 +1,6 @@
 # <ins>iptv-hit (By SCDEV)</ins>
-This is a IPTV SCANNER and HIT TOOL.  This tool was developed by Shamika Chathuranga (SCDEV).
-This is Source Code Of SCDEV'S IPTV SCANNER VERSION 1.0
+**This is a IPTV SCANNER and HIT TOOL.  This tool was developed by Shamika Chathuranga (SCDEV).
+This is Source Code Of SCDEV'S IPTV SCANNER VERSION 1.0**
 
 # <ins>Note</ins>
 
