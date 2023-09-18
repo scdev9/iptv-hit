@@ -7,7 +7,7 @@ This is Source Code Of SCDEV'S IPTV SCANNER VERSION 1.0**
 # <ins>Note</ins>
 
 
-## This Tool made for Educational Purpose Only (for learn about how works network stream urls and ports).     Please Don't Use This Tool to any illegal Activity.    We are not responsible for risk of any illegal activity.`
+## This Tool made for Educational Purpose Only (for learn about how works network stream urls and ports).&nbsp Please Don't Use This Tool to any illegal Activity.    We are not responsible for risk of any illegal activity.`
 
 
 
