@@ -6,7 +6,7 @@ This is Source Code Of SCDEV'S IPTV SCANNER VERSION 1.0
 ```diff
 -This Tool is for Educational Purpose Only (for learn about how works network stream urls and ports).   Please Don't Use This Tool to any illegal Activity.
 ```
- 	$${\color{red}This Tool is for Educational Purpose Only (for learn about how works network stream urls and ports).   Please Don't Use This Tool to any illegal Activity.}$$
+ # ${This\ is\ a\ {\color{red}Big}}\ Title$
 
 * Run "iptvhit.py" file to Start Scan.
 
